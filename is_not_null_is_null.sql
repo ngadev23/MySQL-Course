@@ -1,0 +1,2 @@
+/*IS NOT NULL - IS NULL*/
+
